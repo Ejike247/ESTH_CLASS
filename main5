@@ -1,0 +1,4 @@
+function capital(name) {
+console.log(name.toUpperCase());
+}
+capital("paul");
